@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "NSN",
+    "SNS",
+    "NSN"
+  ],
+  "key": {
+    "N": { "item": "minecraft:iron_nugget" },
+    "S": { "item": "minecraft:string" }
+  },
+  "result": {
+    "id": "tentnets:anti_drone_net",
+    "count": 1
+  }
+}

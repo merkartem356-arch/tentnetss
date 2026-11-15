@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:tnt",
+    "minecraft:fireball",
+    "minecraft:small_fireball",
+    "minecraft:dragon_fireball",
+    "minecraft:wither_skull",
+    "minecraft:firework_rocket"
+  ]
+}

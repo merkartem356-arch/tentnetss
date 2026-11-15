@@ -1,0 +1,23 @@
+{
+  "item.tentnets.anti_drone_net": "Anti-Drone Net",
+  "item.tentnets.mask_net": "Camouflage Net",
+  "entity.tentnets.net": "Tension Net",
+
+  "tooltip.tentnets.anti_drone_net.desc": "Drones and air drops explode on it. Bullets pass through.",
+  "tooltip.tentnets.mask_net.desc": "Hides everything below from aerial view and hides nametags.",
+  "tooltip.tentnets.controls.1": "Right-click a block: set an anchor point",
+  "tooltip.tentnets.controls.2": "Shift + right-click: stretch the net (3+ points)",
+  "tooltip.tentnets.controls.3": "Right-click air: undo point; Shift + right-click air with no points: remove net",
+  "tooltip.tentnets.points": "Points: %s/%s",
+
+  "tentnets.point_added": "Point %s/%s",
+  "tentnets.point_removed": "Point removed (%s/%s)",
+  "tentnets.max_points": "Maximum points: %s",
+  "tentnets.duplicate": "There is already a point here",
+  "tentnets.too_far": "Too far from the first point (max %s blocks)",
+  "tentnets.need_points": "At least 3 points needed: right-click blocks",
+  "tentnets.invalid": "Points are collinear or the area is too small",
+  "tentnets.placed": "Net stretched",
+  "tentnets.removed": "Net removed",
+  "tentnets.help": "Right-click a block for a point, Shift + right-click to stretch"
+}

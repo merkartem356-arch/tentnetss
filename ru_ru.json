@@ -1,0 +1,23 @@
+{
+  "item.tentnets.anti_drone_net": "Антидроновая сеть",
+  "item.tentnets.mask_net": "Маскировочная сеть",
+  "entity.tentnets.net": "Натянутая сеть",
+
+  "tooltip.tentnets.anti_drone_net.desc": "Дроны и сбросы взрываются на ней. Пули пролетают сквозь.",
+  "tooltip.tentnets.mask_net.desc": "Прячет всё под собой от взгляда сверху и скрывает ники.",
+  "tooltip.tentnets.controls.1": "ПКМ по блоку — поставить опорную точку",
+  "tooltip.tentnets.controls.2": "Shift + ПКМ — натянуть сеть (от 3 точек)",
+  "tooltip.tentnets.controls.3": "ПКМ в воздух — отменить точку; Shift + ПКМ в воздух без точек — снять сеть",
+  "tooltip.tentnets.points": "Точек: %s/%s",
+
+  "tentnets.point_added": "Точка %s/%s",
+  "tentnets.point_removed": "Точка убрана (%s/%s)",
+  "tentnets.max_points": "Максимум точек: %s",
+  "tentnets.duplicate": "Здесь уже есть точка",
+  "tentnets.too_far": "Слишком далеко от первой точки (макс. %s блоков)",
+  "tentnets.need_points": "Нужно минимум 3 точки: ПКМ по блокам",
+  "tentnets.invalid": "Точки на одной линии или площадь слишком мала",
+  "tentnets.placed": "Сеть натянута",
+  "tentnets.removed": "Сеть снята",
+  "tentnets.help": "ПКМ по блоку — точка, Shift + ПКМ — натянуть сеть"
+}

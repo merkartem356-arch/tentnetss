@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:snowball",
+    "minecraft:egg",
+    "minecraft:potion",
+    "minecraft:experience_bottle",
+    "minecraft:ender_pearl",
+    "minecraft:llama_spit",
+    "minecraft:shulker_bullet",
+    { "id": "minecraft:wind_charge", "required": false },
+    { "id": "minecraft:breeze_wind_charge", "required": false }
+  ]
+}
